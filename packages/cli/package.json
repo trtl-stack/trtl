@@ -1,0 +1,21 @@
+{
+  "name": "trtl",
+  "type": "module",
+  "version": "0.1.0",
+  "description": "TRTL Stack CLI",
+  "scripts": {
+    "build": "tsup"
+  },
+  "dependencies": {
+    "ink": "^4.4.1",
+    "pastel": "^2.0.2",
+    "react": "^18.3.1",
+    "zod": "^3.23.6"
+  },
+  "devDependencies": {
+    "@sindresorhus/tsconfig": "^5.0.0",
+    "@types/react": "^18.3.1",
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.5"
+  }
+}
